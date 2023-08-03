@@ -102,6 +102,3 @@ data.save({ spaces: [number] });
 ---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&width=435&lines=%22+Thanks+For+Useing+My+package+%E2%9D%A4+%22)
-# DeadJson
-# DeadJson
-# DeadJson
